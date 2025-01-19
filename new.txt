@@ -1,0 +1,15 @@
+==create an remote repostries
+==for branch in local git init,for main-git init -b main.
+
+==created an repo in remote repo and copied an link  to local repo
+and the added to staging and commited and then pushed in remote repo by git push origin [branchname]main
+==if any changes in local-do changes and then again add,commit
+==or changing multiple branches-git checkout "[bn]"
+==create branch-git checkout -b "branchname" 
+and then add new file ,commit and push into newbranchname.
+==for any contribution u should fork and paste link[http link] in create new folder and open floder in vs code and paste link in terminal and all bill be get into local repo .
+<note>no need to create local repo bcs it is already an remote repo so only create folder and paste .
+then add,commit,push into ur repo and do pull request to contribution id .and also do dir for which file u want to changes.
+== if same pr ther will be an merge conflict so we get to our local and then resolve and then do again pr.
+==get pull -for remote to local and do changes
+==git fetch-remote to local same but can not do edits
